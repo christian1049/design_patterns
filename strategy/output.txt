@@ -1,0 +1,23 @@
+Amy was added to the list!
+Jamie was added to the list!
+Kyle was added to the list!
+Brad was added to the list!
+Micheal was added to the list!
+brad is already on the list
+Trevor was added to the list!
+Jamie is already on the list
+Kyle was successfully remove from the list.
+Kevin was not on the list, so he/she couldn't be removed
+Sara was added to the list!
+Kim was added to the list!
+Jamie is already on the list
+Amy was successfully remove from the list.
+Ashley was not on the list, so he/she couldn't be removed
+
+Thanksgiving Celebration
+  - Brad
+  - Jamie
+  - Kim
+  - Micheal
+  - Sara
+  - Trevor
