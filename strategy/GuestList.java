@@ -1,6 +1,6 @@
 package strategy;
 /**
- * A guest list that can add or remove guests
+ * A guest list that can add or remove the given guests.
  * @author Christian Lee
  */
 import java.util.ArrayList;
@@ -40,7 +40,7 @@ public class GuestList{
         }
     }
     /**
-     * This gets the title of the code
+     * This gets the title of the code.
      */
     public String getTitle(){
         return title;
@@ -49,7 +49,7 @@ public class GuestList{
        this.searchBehavior = searchBehavior;
     }
     /**
-     * This returns the list of people
+     * This returns the list of people.
      */
     public ArrayList<String> getList(){
         return people;

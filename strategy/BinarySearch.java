@@ -1,7 +1,7 @@
 package strategy;
 
 /**
- * A binary search class to check if the guest name is on the list
+ * The binary search class to check if the guest name is on the list.
  * @author Christian Lee
  */
 import java.util.Collections;
@@ -9,7 +9,7 @@ import java.util.ArrayList;
 public class BinarySearch implements SearchBehavior{
    
     /**
-     * Used a collection to sort the list alphabetically in ascending order
+     * Used a collection to sort the list alphabetically in ascending order.
      */
     public boolean contains(ArrayList<String> data, String item){
     	Collections.sort(data, String.CASE_INSENSITIVE_ORDER);

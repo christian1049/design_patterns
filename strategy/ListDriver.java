@@ -3,7 +3,7 @@ package strategy;
 import java.util.ArrayList;
 
 /**
- * Runs the Guest List Program
+ * Runs the Guest List Program.
  */
 public class ListDriver {
     private GuestList gList;

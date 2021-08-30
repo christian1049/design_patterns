@@ -1,7 +1,7 @@
 package strategy;
 
 /**
- * A search class to check if the guest name is on the list
+ * A search class to check if the guest name is on the list.
  * @author Christian Lee
  */
 import java.util.ArrayList;

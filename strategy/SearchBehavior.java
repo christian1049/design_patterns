@@ -1,7 +1,7 @@
 package strategy;
 
 /**
- * Interface for search behavior
+ * Interface for search behavior.
  * @author Christian Lee
  */
 import java.util.*;
