@@ -16,14 +16,14 @@ public class BinarySearch implements SearchBehavior{
     	int min = 0;
         int max = data.size() - 1;
         int mid;
-        while (min<=max){
-            mid = min+max/2;
-            if(data.get(min).toLowerCase().compareTo(item.toLowerCase())<0){
+        while (min<max){
+            mid = (min+max)/2;
+            if(data.get(mid).toLowerCase().compareTo(item.toLowerCase())<0){
                 min = mid+1;
 
             }
-            else if (data.get(min).toLowerCase().compareTo(item.toLowerCase())>0){
-                max = mid-1;
+            else if (data.get(mid).toLowerCase().compareTo(item.toLowerCase())>0){
+                max = mid;
             }
             else{
                 return true;
