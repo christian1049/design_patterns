@@ -9,7 +9,7 @@ import java.util.ArrayList;
 public class BinarySearch implements SearchBehavior{
    
     /**
-     * Used a collection to sort the list alphabetically in ascending order.
+     * @param Used a collection to sort the list alphabetically in ascending order.
      */
     public boolean contains(ArrayList<String> data, String item){
     	Collections.sort(data, String.CASE_INSENSITIVE_ORDER);
@@ -33,7 +33,7 @@ public class BinarySearch implements SearchBehavior{
         
     }
     /**
-     * Used an online source to binary search.
+     * @param Used an online source to binary search.
      * https://www.geeksforgeeks.org/binary-search-a-string/
      */
 }

@@ -15,6 +15,6 @@ public class LinearSearch implements SearchBehavior{
         return false;
     }
     /**
-     * This uses a for loop to look at each person's name on the list and it returns true if it does, otherwise, it returns false.
+     * @param Uses a for loop to look at each person's name on the list and it returns true if it does, otherwise, it returns false.
      */
 }
