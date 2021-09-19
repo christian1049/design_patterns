@@ -14,7 +14,7 @@ public abstract class Character {
      * Initialized the array list to size 7.
      */
     public Character(){
-        this.sections = new ArrayList<String>(7);
+        this.sections = new ArrayList<>();
     
     }
 /**
