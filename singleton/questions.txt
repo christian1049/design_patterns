@@ -1,0 +1,10 @@
+What type of animal is a seahorse?, Crustacean, Arachnid, Fish, Shell, 2
+Which of the following dog breeds is the smallest?, Dachshund, Poodle, pomeranian, Chicuahua, 3
+What color are zebras?, White with black stripes?, Black with white stripes, Both of the above, None of the above, 1
+What existing bird has the largest wingspan?, Stork, Swan, Condor, Albatross, 3
+What is the largest big cat?, Lion, Tiger, Cheetah, Leopard, 1
+What land animal can open its mouth the widest?, Alligator, Crocodile, Baboon, Hippo, 3
+What is the largest animal on Earth?, The African elephant, The blue whale, The sperm whale, The giant squid, 1
+What is the only flying mammal?, The bat, The flying squirrel, The bald eagle, The colugo, 0
+What is an animal called that eats plants and meat?, Carnivore, Herbivore, Omnivore, Pescatarian, 2
+Why do sea otters hold hands?, Because they love each other, To show they’re in the same family, So they don’t float away when they’re sleeping, Because they’re playing, 2
